@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_bar_height">220dp</dimen>
+    <dimen name="top_bar_dumper_range">50dp</dimen>
+    <dimen name="top_bar_scroll_view_height">110dp</dimen>
+    <dimen name="top_bar_pin_view_height">60dp</dimen>
+</resources>
